@@ -1,5 +1,5 @@
 pytest==9.1.1
 pyyaml==6.0.3
-ruff==0.16.7
+ruff==0.16.8
 shellcheck-py==0.11.0.1
 zizmor==1.30.1
